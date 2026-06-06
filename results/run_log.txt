@@ -1,0 +1,2 @@
+ trades  total_pnl  win_rate    avg_win    avg_loss  profit_factor  max_drawdown
+    500    8481.98     0.512 133.909688 -105.733197       1.328773      -2239.97
