@@ -33,3 +33,13 @@
 
     - Built a crypto trading journal analytics project with PnL, win rate, profit factor, drawdown, equity curve and symbol/setup performance breakdowns.
 - Created a dashboard-ready structure suitable for Excel, Google Sheets and freelance trading analytics projects.
+
+  ## Freelance use cases
+
+I can adapt this project for:
+
+- cleaning client CSV/Excel files;
+- building automated data-quality reports;
+- creating Google Sheets / Excel dashboards;
+- building trading journal dashboards;
+- analyzing PnL, win rate, drawdown and strategy performance.
